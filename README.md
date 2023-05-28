@@ -1,4 +1,4 @@
-# Broweser Extension 
+# Browser Extension 
 
 ### JS concpets used: 
 
